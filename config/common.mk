@@ -205,6 +205,7 @@ PRODUCT_PACKAGE_OVERLAYS += \
 PRODUCT_PACKAGES += \
     AndroidBlackThemeOverlay \
     DocumentsUIOverlay \
+    ImmersiveNavigationOverlay \
     NotchBarKillerOverlay \
     NetworkStackOverlay \
     ThemedIconsOverlay
