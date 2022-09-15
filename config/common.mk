@@ -104,6 +104,10 @@ SYSTEMUI_OPTIMIZE_JAVA ?= true
 # Disable vendor restrictions
 PRODUCT_RESTRICT_VENDOR_FILES := false
 
+# Game Space
+PRODUCT_PACKAGES += \
+    GameSpace
+
 # Repainter integration
 PRODUCT_PACKAGES += \
     RepainterServicePriv
