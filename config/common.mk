@@ -123,6 +123,10 @@ PRODUCT_RESTRICT_VENDOR_FILES := false
 # Bootanimation
 include vendor/aosp/config/bootanimation.mk
 
+# BatteryStatsViewer
+PRODUCT_PACKAGES += \
+    BatteryStatsViewer
+
 # BtHelper
 PRODUCT_PACKAGES += \
     BtHelper
