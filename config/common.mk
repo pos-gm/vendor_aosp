@@ -108,6 +108,10 @@ PRODUCT_RESTRICT_VENDOR_FILES := false
 PRODUCT_PACKAGES += \
     RepainterServicePriv
 
+# MatLog
+PRODUCT_PACKAGES += \
+    MatLog
+
 # Extra tools
 PRODUCT_PACKAGES += \
     bash \

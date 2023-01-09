@@ -207,4 +207,9 @@
 
     <!-- Default value for performant auth feature. -->
     <bool name="config_performantAuthDefault">true</bool>
+
+    <string-array translatable="false" name="config_loggersPkgList" >
+        <item>org.omnirom.logcat</item>
+    </string-array>
+
 </resources>
