@@ -210,6 +210,12 @@ PRODUCT_PACKAGES += \
     ThemedIconsOverlay \
     NavigationBarNoHintOverlay
 
+PRODUCT_PACKAGES += \
+    POSApertureTranslation \
+    POSFrameworksTranslation \
+    POSSettingsTranslation \
+    POSSystemUITranslation
+
 include vendor/aosp/config/version.mk
 
 # OTA

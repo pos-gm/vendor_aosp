@@ -1,0 +1,4 @@
+runtime_resource_overlay {
+    name: "POSFrameworksTranslation",
+    product_specific: true,
+}

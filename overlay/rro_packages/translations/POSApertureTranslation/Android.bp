@@ -1,0 +1,4 @@
+runtime_resource_overlay {
+    name: "POSApertureTranslation",
+    product_specific: true
+}
