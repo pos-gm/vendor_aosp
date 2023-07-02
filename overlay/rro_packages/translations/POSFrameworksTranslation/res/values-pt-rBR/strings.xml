@@ -7,39 +7,4 @@
 <string name="reboot_title">Reiniciar</string>
 <string name="reboot_message">Reiniciando o sistema</string>
 
-<!-- Botão que copia o URL do log de um aplicativo com falha -->
-<string name="aerr_copy">Copiar URL do log</string>
-<string name="url_copy_success">URL copiado com sucesso</string>
-<string name="url_copy_failed">Ocorreu um erro ao enviar o log</string>
-
-<!-- Strings do LiveDisplay -->
-<string name="live_display_title" translatable="false">LiveDisplay</string>
-<string name="live_display_auto">Automático</string>
-<string name="live_display_auto_summary">Ajustar automaticamente a temperatura de cor da tela após o pôr do sol e o nascer do sol</string>
-<string name="live_display_off">Desligado</string>
-<string name="live_display_off_summary">Desativar todos os ajustes</string>
-<string name="live_display_day">Dia</string>
-<string name="live_display_day_summary">Usar apenas as configurações diurnas</string>
-<string name="live_display_night">Noite</string>
-<string name="live_display_night_summary">Usar apenas as configurações noturnas</string>
-<string name="live_display_outdoor">Externo (sol forte)</string>
-<string name="live_display_outdoor_summary">Usar apenas as configurações externas</string>
-<string name="live_display_hint">O LiveDisplay pode ajudar a reduzir a fadiga ocular e ajudá-lo a dormir à noite. Clique aqui para experimentar!</string>
-<string name="accessibility_quick_settings_live_display_off">LiveDisplay desativado.</string>
-<string name="accessibility_quick_settings_live_display_auto">LiveDisplay: modo automático.</string>
-<string name="accessibility_quick_settings_live_display_day">LiveDisplay: modo diurno.</string>
-<string name="accessibility_quick_settings_live_display_night">LiveDisplay: modo noturno.</string>
-<string name="accessibility_quick_settings_live_display_outdoor">LiveDisplay: modo externo.</string>
-<string name="accessibility_quick_settings_live_display_changed_off">LiveDisplay desativado.</string>
-<string name="accessibility_quick_settings_live_display_changed_auto">LiveDisplay alterado para modo automático.</string>
-<string name="accessibility_quick_settings_live_display_changed_day">LiveDisplay alterado para modo diurno.</string>
-<string name="accessibility_quick_settings_live_display_changed_night">LiveDisplay alterado para modo noturno.</string>
-<string name="accessibility_quick_settings_live_display_changed_outdoor">LiveDisplay alterado para modo externo.</string>
-
-<!-- Bloqueio de bolso -->
-<string name="pocket_lock_message_long_press">Pressione e segure o botão de energia para desbloquear</string>
-<string name="pocket_view_title">Modo de bolso ativado</string>
-<string name="pocket_view_title_cancel">Para ativar seu telefone:</string>
-<string name="pocket_view_top_tag_cancel">Não cubra a área azul do seu telefone e remova qualquer sujeira ou poeira.</string>
-<string name="pocket_view_top_tag_cancel2">Pressione e segure o botão de energia para sair do modo de bolso.</string>
 </resources>
