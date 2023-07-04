@@ -207,8 +207,7 @@ PRODUCT_PACKAGES += \
     DocumentsUIOverlay \
     NotchBarKillerOverlay \
     NetworkStackOverlay \
-    ThemedIconsOverlay \
-    NavigationBarNoHintOverlay
+    ThemedIconsOverlay
 
 PRODUCT_PACKAGES += \
     POSApertureTranslation \
