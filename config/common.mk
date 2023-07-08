@@ -108,6 +108,10 @@ PRODUCT_RESTRICT_VENDOR_FILES := false
 PRODUCT_PACKAGES += \
     product_charger_res_images
 
+# Config
+PRODUCT_PACKAGES += \
+    SimpleDeviceConfig
+
 # Game Space
 PRODUCT_PACKAGES += \
     GameSpace
