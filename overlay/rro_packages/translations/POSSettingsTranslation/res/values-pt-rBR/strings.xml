@@ -12,4 +12,24 @@
     <string name="pattern_da_da_dzzz" translatable="false">da-da-dzzz</string>
     <string name="pattern_da_dzzz_da" translatable="false">da-dzzz-da</string>
 
+    <!-- USB configuration -->
+    <string name="usb_default_config_title">Configuração USB</string>
+    <string name="usb_default_config_summary">Escolha o comportamento padrão quando conectado a um dispositivo via USB</string>
+
+    <!-- Game Space -->
+    <string name="game_space_title">Espaço de jogos</string>
+    <string name="game_space_summary">Melhore sua experiência de jogo</string>
+
+    <!-- Smart 5G -->
+    <string name="smart_5g_title">Smart 5G</string>
+    <string name="smart_5g_summary">Alternar automaticamente entre 5G e 4G para reduzir o consumo de bateria</string>
+
+    <!-- Immersive Navigation -->
+    <string name="gesture_navbar_category_title">Barra de navegação</string>
+    <string name="immersive_navigation_title">Navegação Imersiva</string>
+    <string name="immersive_navigation_summary">Oculte a pílula de gestos e o preenchimento da barra de navegação.</string>
+
+    <!-- Separate ring & notification toggle -->
+    <string name="volume_separate_notification_title">Toque e notificação separados</string>
+    <string name="volume_separate_notification_summary">Permite controlar cada fluxo individualmente</string>
 </resources>
