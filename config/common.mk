@@ -225,7 +225,7 @@ PRODUCT_PACKAGES += \
     DocumentsUIOverlay \
     NotchBarKillerOverlay \
     NetworkStackOverlay \
-    ThemedIconsOverlay \
+    PixelLauncherOverlay \
     NavigationBarNoHintOverlay
 
 # TextClassifier
