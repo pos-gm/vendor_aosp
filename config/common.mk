@@ -258,4 +258,7 @@ $(call inherit-product, vendor/aosp/config/ota.mk)
 # Translations
 $(call inherit-product-if-exists, vendor/aosp/translations/translations.mk)
 
+# Certified build workaround
+$(call inherit-product-if-exists, vendor/aosp/certs/config.mk)
+
 -include $(WORKSPACE)/build_env/image-auto-bits.mk
